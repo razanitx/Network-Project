@@ -195,6 +195,12 @@ After completing the required rounds, the game displays the final results.
 
 The client-side interface was developed using **Java Swing** and provides players with the screens required to connect, participate in game rounds, submit answers, and view the final results.
 
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots/Interface.png">
+</p>
+
 ---
 
 
