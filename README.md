@@ -1,8 +1,8 @@
-# لعبكة | La3bka 🎮
+# La3bka|لعبكة 🎮
 
 ### Multiplayer Network Game
 
-لعبكة (La3bka) is a multiplayer network game developed in Java as a networking project. The game uses a client-server architecture to allow multiple players to connect to a central server and participate in the same game session.
+is a multiplayer network game developed in Java as a networking project. The game uses a client-server architecture to allow multiple players to connect to a central server and participate in the same game session.
 
 The project focuses on network communication, client-server interaction, concurrent connections, game-room management, and real-time synchronization between players.
 
@@ -10,7 +10,7 @@ The project focuses on network communication, client-server interaction, concurr
 
 ## Overview
 
-لعبكة is a multiplayer game where players connect to a central server through separate client applications.
+La3bka|لعبكة is a multiplayer game where players connect to a central server through separate client applications.
 
 The server manages the connected players, creates and controls the game room, coordinates game rounds, and handles communication between the clients.
 
@@ -197,22 +197,7 @@ The client-side interface was developed using **Java Swing** and provides player
 
 ---
 
-## Project Structure
 
-```text
-La3bka/
-│
-├── src/
-│   ├── client/
-│   ├── server/
-│   └── game/
-│
-├── images/
-│
-└── README.md
-```
-
----
 
 ## Learning Outcomes
 
@@ -228,14 +213,3 @@ This project provided practical experience in:
 - Java Swing GUI development
 - Debugging network communication
 
----
-
-## Project Status
-
-**Completed — Networking Academic Project**
-
----
-
-## Team Project
-
-لعبكة was developed as a collaborative academic project focused on applying computer networking concepts to a real-time multiplayer application.
